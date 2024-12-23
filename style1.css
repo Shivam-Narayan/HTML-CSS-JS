@@ -1,0 +1,40 @@
+a:visited{
+    color: green;
+}
+
+a:active{
+    color: red;
+}
+
+#submit_btn{
+    background-color: cyan;
+}
+#submit_btn:hover{
+    background-color: red;
+    color: white;
+}
+
+#submit_btn:active{
+    background-color:violet;
+}
+#pa::first-letter
+{
+    color: red;
+    font-size: 35px;
+}
+
+#pa{
+    text-indent: 50px;
+}
+
+#pa::first-line
+{
+    color: red;
+    font-size: 30px;
+}
+
+#ww::after
+{
+    content: "*";
+    color: red;
+}

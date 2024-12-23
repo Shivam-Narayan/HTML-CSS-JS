@@ -1,0 +1,18 @@
+h1{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+h2{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+span{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+}

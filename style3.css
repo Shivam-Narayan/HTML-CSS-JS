@@ -1,0 +1,18 @@
+.box{
+    width: 200px;
+    height: 200px;
+    border: 3px solid red;
+    transition-property: all;
+    transition-duration: 5s;
+    transition-delay: 2s;
+}
+
+.box:hover{
+   /* width: 250px;
+    height: 250;
+    transform: scale(1.05);*/
+    transform: rotate(-25deg);
+   /* transform: translate(150px,150px);*/
+    background-color: red;
+    border-radius: 50%;
+}
